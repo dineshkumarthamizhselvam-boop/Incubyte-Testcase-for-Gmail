@@ -13,5 +13,3 @@ Body: QA test for Incubyte
 - BDD Test Cases
 - Positive Scenarios
 - Negative Scenarios
-
-Author: Dinesh Kumar
